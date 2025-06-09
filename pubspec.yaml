@@ -1,7 +1,7 @@
 name: simple_pdf_compression
-description: "Compress a PDF - nothing more"
-version: 0.0.1
-repository: https://github.com/shmink/flutter_simple_pdf_compression
+description: "Compress PDFs in Flutter with ease. Uses a smarter algorithm to balance file size and quality for optimal compression results."
+version: 0.0.2
+repository: https://github.com/WithWise/flutter_simple_pdf_compression
 
 environment:
   sdk: ^3.6.0

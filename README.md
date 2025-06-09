@@ -1,11 +1,11 @@
 # Simple PDF Compression
 
-A Flutter package for compressing PDFs. This package provides a simple use but with a more complex algorithm to work out optimal compression ratios.
+Compress PDFs in Flutter with ease. Uses a smarter algorithm to balance file size and quality for optimal compression results.
 
 ## Features
-
-- **PDF Compression**: Compress PDF files with different compression levels
-- **Customizable**: Configure compression parameters to suit your needs
+- **PDF Compression** – Compress PDF files with configurable quality settings
+- **Smart Defaults** – Automatically calculates a suitable compression level when none is specified
+- **Customizable** - Adjust compression parameters like quality and size thresholds to suit your needs
 
 ## Getting Started
 
@@ -17,7 +17,7 @@ flutter pub add simple_pdf_compression
 or
 ```yaml
 dependencies:
-  simple_pdf_compression: ^0.0.1
+  simple_pdf_compression: ^0.0.2
 ```
 
 Then run:

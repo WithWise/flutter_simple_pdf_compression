@@ -7,6 +7,7 @@ import 'package:pdf/widgets.dart' as pw_widgets;
 import 'package:pdfx/pdfx.dart';
 
 class PDFCompression {
+  /// Returns a [File]
   /// - If [thresholdSize] is set and the original file is smaller than or equal to this value,
   ///   the original file is returned unchanged and uncompressed.
   /// - If [quality] is not provided, an internal algorithm attempts to calculate an appropriate
