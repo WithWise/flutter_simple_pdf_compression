@@ -1,3 +1,6 @@
+[![pub package](https://img.shields.io/pub/v/simple_pdf_compression.svg)](https://pub.dev/packages/simple_pdf_compression)
+[![likes](https://img.shields.io/pub/likes/simple_pdf_compression.svg)](https://pub.dev/packages/simple_pdf_compression)
+
 # Simple PDF Compression
 
 Compress PDFs in Flutter with ease. Uses a smarter algorithm to balance file size and quality for optimal compression results.
